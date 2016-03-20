@@ -8,3 +8,5 @@ or the
 [![St. Patrick's](https://pbs.twimg.com/media/CdtOSj2WAAAN9wi.png:small)](https://twitter.com/harvey_os/status/710247447768014849)
 
 you can submit your ideas via a pull request to with the month as folder and day as file name for like St. Patrick's day march 17 becomes `03/17.png` or may the forth for Star Wars day would be `05/04.png`.
+
+We will only accept geeky and/or goofy doodles related to harvey. Stay clear off religious and national holidays.
