@@ -1,6 +1,7 @@
 # doodles
 
 We, the Harvey Core Team, have been doing something very similar to [Google Doodles](http://www.google.com/doodles/). A common thing we do is to put on hats to Harvey like we did for @keef's birthday
+
 [![Happy Birthday](https://pbs.twimg.com/media/Ccsc44dW4AALLCs.jpg:small)](https://twitter.com/harvey_os/status/705689533975760896)
 
 or the St. Patrick's day one
